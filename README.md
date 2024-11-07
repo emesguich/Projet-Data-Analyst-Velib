@@ -6,6 +6,6 @@ Pour accéder au rapport Power BI illustrant la préentation, cliquez sur
 
 # Notebooks Jupyter
 Vous pouvez accéder aux notebooks en cliquant ici :  
-[lien vers le 1er fichier CLEANING](https://github.com/emesguich/Projet-Data-Analyst-Velib/blob/main/Capstone%203%20-%20CLEANING%20DF1.ipynb).  
-[lien vers le fichier CLEANING FINAL](https://github.com/emesguich/Projet-Data-Analyst-Velib/blob/main/Capstone%203%20-%20CLEANING%20FINAL.ipynb).  
-[lien vers le fichier ANALYSE](https://github.com/emesguich/Projet-Data-Analyst-Velib/blob/main/Capstone%203%20-%20ANALYSIS.ipynb).  
+[Lien vers le 1er fichier CLEANING](https://github.com/emesguich/Projet-Data-Analyst-Velib/blob/main/Capstone%203%20-%20CLEANING%20DF1.ipynb).  
+[Lien vers le fichier CLEANING FINAL](https://github.com/emesguich/Projet-Data-Analyst-Velib/blob/main/Capstone%203%20-%20CLEANING%20FINAL.ipynb).  
+[Lien vers le fichier ANALYSE](https://github.com/emesguich/Projet-Data-Analyst-Velib/blob/main/Capstone%203%20-%20ANALYSIS.ipynb).  
