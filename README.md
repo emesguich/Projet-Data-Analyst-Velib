@@ -1,7 +1,7 @@
-# Présentation PPT
+# Présentation PowerPoint
 Vous pouvez visualiser la présentation PowerPoint en ligne via [ce lien Google Slides](https://docs.google.com/presentation/d/1k4_Q6UNjNIlH2hK3pPSEX7KhkwxvcSi4KeOapPXjUl4/edit?usp=sharing).
 
-# Simulateur sur Power BI
+# Simulateur Power BI
 Pour accéder au rapport Power BI illustrant la préentation, cliquez sur 
 
 # Notebooks Jupyter
